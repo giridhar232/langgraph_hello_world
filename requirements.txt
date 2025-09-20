@@ -1,0 +1,4 @@
+langchain
+langgraph
+ipython
+ipykernel
